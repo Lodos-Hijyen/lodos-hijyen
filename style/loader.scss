@@ -1,0 +1,49 @@
+#loading-screen {
+    width: 100%;
+    height: 100dvh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+    transition: opacity .3s ease;
+    padding: 30px;
+
+    z-index: 99;
+    position: fixed;
+    background: -webkit-linear-gradient(-30deg, #29a8e4 53.19%, #045074 107.69%);
+
+    svg path {
+        fill: transparent;
+        stroke: #fff;
+        stroke-width: .8;
+        stroke-dasharray: 40;
+        stroke-dashoffset: 0;
+        animation: textAnimation 2s linear infinite;
+
+    }
+
+    @keyframes textAnimation {
+        0% {
+            stroke-dashoffset: 0;
+        }
+
+        100% {
+            stroke-dashoffset: 160;
+        }
+    }
+
+    #percentage {
+        position: absolute;
+        bottom: 20px;
+        left: 20px;
+        font-family: DMSans-Light;
+        line-height: 100px;
+        font-size: 6rem;
+        color:white;
+    }
+}
+
+@font-face {
+    font-family: DMSans-Light;
+    src: url("/fonts/DMSans-Light.ttf");
+}
