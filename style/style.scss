@@ -255,13 +255,75 @@ header {
         width: var(--half-width);
         height: 100%;
         padding: 10px;
+        overflow: hidden;
+        padding: 10px;
 
+        .slider-container{
+            position: relative;
+            
+            width: 100%;
+            height: 100%;
+        }
+        .progress-bar {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 5px;
+            background-color: var(--colourful);
+            width: 0;
+            z-index: 2;
+        }
+
+        /* Swiper */
+        .swiper {
+            width: 100%;
+            height: 100%;
+            border-radius: 0 0 15px 15px;
+        }
+
+        .swiper-slide {
+            width: 100%;
+            height: 100%;
+            text-align: center;
+            background: var(--main-color);
+
+            /* Center slide text vertically */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .swiper-slide img {
+            width: 100%;
+            display: block;
+            z-index: 1;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        /* Pagination Dotları */
+        .swiper-pagination {
+            bottom: 10px !important;
+        }
+
+        .swiper-pagination-bullet {
+            background: var(--text-color);
+            opacity: 1;
+            width: 10px;
+            height: 10px;
+        }
+
+        .swiper-pagination-bullet-active {
+            background: var(--colourful);
+        }
+
+
+        /* 
         img {
             height: 100%;
             width: 100%;
             object-fit: cover;
-            border-radius: 15px;
-        }
+        } */
 
     }
 }
@@ -1255,7 +1317,6 @@ footer {
 
         #hc-image-container {
             width: 100%;
-            height: 500px;
             padding-left: 0px;
             align-items: center;
             padding: 0;
@@ -1330,10 +1391,10 @@ footer {
             }
         }
     }
-    
-    #contact-us-container{
-        #map{
-            iframe{
+
+    #contact-us-container {
+        #map {
+            iframe {
                 height: 400px !important;
             }
         }
@@ -1460,8 +1521,9 @@ footer {
                 }
             }
         }
-        #map{
-            iframe{
+
+        #map {
+            iframe {
                 height: 300px !important;
             }
         }
@@ -1793,8 +1855,9 @@ footer {
                 }
             }
         }
-        #map{
-            iframe{
+
+        #map {
+            iframe {
                 height: 250px !important;
             }
         }

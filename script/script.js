@@ -80,6 +80,36 @@ document.addEventListener('DOMContentLoaded', function () {
                 duration: 800,
             });
 
+            const progressBar = document.querySelector(".progress-bar");
+            const swiper = new Swiper(".swiper", {
+                loop: true,
+                pagination: {
+                    el: ".swiper-pagination",
+                    clickable: true,
+                },
+                autoplay: {
+                    delay: 3000,
+                    disableOnInteraction: false,
+                },
+                on: {
+                    slideChangeTransitionStart: () => {
+                        resetProgressBar();
+                    },
+                },
+            });
+
+            function resetProgressBar() {
+                progressBar.style.transition = "none";
+                progressBar.style.width = "0%";
+
+                setTimeout(() => {
+                    progressBar.style.transition = `width ${swiper.params.autoplay.delay}ms linear`;
+                    progressBar.style.width = "100%";
+                }, 50);
+            }
+
+            resetProgressBar();
+
             const cookieContainer = document.getElementById("cookie-container");
             const acceptButton = document.getElementById("cookie-confirm-button");
 

@@ -63,6 +63,8 @@
     <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.css">
+
     <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.5.1/SmoothScroll.min.js"
         integrity="sha512-BkMKSo7sGBeDmtIyZoyInJbrI/XqQ1ez6SZotOL0e+iT6tzOjBmtMpWWPUVbcdqLbaukREItSDV2aohX+9gBlw=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -129,7 +131,30 @@
                 </div>
             </div>
             <div id="hc-image-container" data-aos="fade-left" data-aos-offset="0">
-                <img src="/images/main-image.jpg" alt="">
+                <!-- <img src="/images/main-image.jpg" alt=""> -->
+
+                <div class="slider-container">
+                    <!-- İlerleme Çubuğu -->
+                    <div class="progress-bar"></div>
+
+                    <!-- Swiper Slider -->
+                    <div class="swiper">
+                        <div class="swiper-wrapper">
+                            <div class="swiper-slide">
+                                <img src="img1.jpg" alt="Slide 1">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="img2.jpg" alt="Slide 2">
+                            </div>
+                            <div class="swiper-slide">
+                                <img src="img3.jpg" alt="Slide 3">
+                            </div>
+                        </div>
+
+                        <!-- Pagination -->
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
             </div>
         </div>
         <div id="brands-container" class="section">
@@ -520,8 +545,9 @@
             <div id="footer-bottom-container" data-aos="fade-down" data-aos-delay="0">
                 <div id="fb-nav-container">
                     <a href="#home-container" class="link">Ana Sayfa</a>
-                    <a href="/dijital-katalog" onclick="trackButtonClick('Contacts', 'Digital-Catalog Clicked')">Dijital Katalog</a>
-                    <a href="#about-us-container" class="link" >Hakkımızda</a>
+                    <a href="/dijital-katalog" onclick="trackButtonClick('Contacts', 'Digital-Catalog Clicked')">Dijital
+                        Katalog</a>
+                    <a href="#about-us-container" class="link">Hakkımızda</a>
                     <a href="#contact-us-container" class="link">İletişim</a>
                 </div>
                 <div id="footer-info">
@@ -567,6 +593,10 @@
             <div id="cookie-confirm-button" class="button">Kabul Et</div>
         </div>
     </div>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/swiper/swiper-bundle.min.js"></script>
+
     <script>
         gsap.registerPlugin(ScrollTrigger);
 

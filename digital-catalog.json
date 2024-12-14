@@ -5,16 +5,24 @@
             "products": [
                 {
                     "title": "Fairy Elde Yıkama Sıvı Deterjan",
-                    "image": "/images/product.jpg",
+                    "image": "/images/asd.webp",
                     "details": {
                         "Hacim": "750 ml",
                         "Koli Adedi": "12",
-                        "Koku": "Limon"
+                        "Koku": "Limon",
+                        "asd": "asdasdasd",
+                        "Hac1im": "1 L",
+                        "Koli Adedi1": "10",
+                        "Koku2": "Nar",
+                        "Boyut": "20x30 cm",
+                        "Adet/Koli": "100",
+                        "Boyu2t": "20x30 cm",
+                        "Adet1/Koli": "100"
                     }
                 },
                 {
                     "title": "Pril Güçlü Yağ Çözücü Deterjan",
-                    "image": "/images/product.jpg",
+                    "image": "/images/asd.webp",
                     "details": {
                         "Hacim": "1 L",
                         "Koli Adedi": "10",
@@ -23,7 +31,7 @@
                 },
                 {
                     "title": "Finish Bulaşık Makinesi Deterjanı",
-                    "image": "/images/product.jpg",
+                    "image": "/images/asd.webp",
                     "details": {
                         "Hacim": "2.5 L",
                         "Koli Adedi": "6",
@@ -32,7 +40,7 @@
                 },
                 {
                     "title": "Ajax Genel Temizlik Deterjanı",
-                    "image": "/images/product.jpg",
+                    "image": "/images/asd.webp",
                     "details": {
                         "Hacim": "1.5 L",
                         "Koli Adedi": "8",
@@ -775,152 +783,6 @@
                     "details": {
                         "Boyut": "76x76mm",
                         "Yaprak/Paket": "100"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Temizlik Bezleri",
-            "products": [
-                {
-                    "title": "Mikrofiber Bez",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "40x40 cm",
-                        "Adet/Paket": "10"
-                    }
-                },
-                {
-                    "title": "Tülbent Bez",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "50x50 cm",
-                        "Adet/Paket": "12"
-                    }
-                },
-                {
-                    "title": "Endüstriyel Silme Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Ağırlık": "1 kg",
-                        "Malzeme": "Pamuk"
-                    }
-                },
-                {
-                    "title": "Cam Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "35x35 cm",
-                        "Adet/Paket": "5"
-                    }
-                },
-                {
-                    "title": "Oto Yıkama Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "60x90 cm",
-                        "Adet/Paket": "3"
-                    }
-                },
-                {
-                    "title": "Mutfak Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "30x30 cm",
-                        "Adet/Paket": "6"
-                    }
-                },
-                {
-                    "title": "Yer Paspası",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "50x70 cm",
-                        "Malzeme": "Pamuk"
-                    }
-                },
-                {
-                    "title": "Toz Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "40x40 cm",
-                        "Adet/Paket": "10"
-                    }
-                },
-                {
-                    "title": "Mobilya Bezi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "45x45 cm",
-                        "Adet/Paket": "4"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Servis Ekipmanları",
-            "products": [
-                {
-                    "title": "Plastik Kaşık",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Renk": "Beyaz",
-                        "Adet/Kutu": "1000"
-                    }
-                },
-                {
-                    "title": "Plastik Çatal",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Renk": "Beyaz",
-                        "Adet/Kutu": "1000"
-                    }
-                },
-                {
-                    "title": "Plastik Bıçak",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Renk": "Beyaz",
-                        "Adet/Kutu": "1000"
-                    }
-                },
-                {
-                    "title": "Karıştırıcı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Uzunluk": "11 cm",
-                        "Adet/Kutu": "2500"
-                    }
-                },
-                {
-                    "title": "Pipet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Çap": "5mm",
-                        "Adet/Kutu": "500"
-                    }
-                },
-                {
-                    "title": "Kürdan",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Ahşap",
-                        "Adet/Kutu": "1000"
-                    }
-                },
-                {
-                    "title": "Peçete",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "33x33 cm",
-                        "Adet/Koli": "2000"
-                    }
-                },
-                {
-                    "title": "Masa Örtüsü",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "100x100 cm",
-                        "Adet/Paket": "100"
                     }
                 }
             ]
