@@ -1,650 +1,904 @@
 {
     "categories": [
         {
-            "title": "Sıvı Detarjanlar",
+            "title": "Diversey",
             "products": [
                 {
-                    "title": "Fairy Elde Yıkama Sıvı Deterjan",
-                    "image": "/images/asd.webp",
+                    "title": "Diversey Suma Tera",
+                    "image": "/images/products/diversey/diversey_14.webp",
                     "details": {
-                        "Hacim": "750 ml",
-                        "Koli Adedi": "12",
-                        "Koku": "Limon",
-                        "asd": "asdasdasd",
-                        "Hac1im": "1 L",
-                        "Koli Adedi1": "10",
-                        "Koku2": "Nar",
-                        "Boyut": "20x30 cm",
-                        "Adet/Koli": "100",
-                        "Boyu2t": "20x30 cm",
-                        "Adet1/Koli": "100"
+                        "Ağırlık": "22 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Pril Güçlü Yağ Çözücü Deterjan",
-                    "image": "/images/asd.webp",
+                    "title": "Diversey Suma L4",
+                    "image": "/images/products/diversey/diversey_13.webp",
                     "details": {
-                        "Hacim": "1 L",
-                        "Koli Adedi": "10",
-                        "Koku": "Nar"
+                        "Ağırlık": "22,9 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Finish Bulaşık Makinesi Deterjanı",
-                    "image": "/images/asd.webp",
+                    "title": "Diversey Suma L6",
+                    "image": "/images/products/diversey/diversey_9.webp",
                     "details": {
-                        "Hacim": "2.5 L",
-                        "Koli Adedi": "6",
-                        "Koku": "Portakal"
+                        "Ağırlık": "22,9 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Ajax Genel Temizlik Deterjanı",
-                    "image": "/images/asd.webp",
+                    "title": "Diversey Suma L1.7",
+                    "image": "/images/products/diversey/diversey_17.webp",
                     "details": {
-                        "Hacim": "1.5 L",
-                        "Koli Adedi": "8",
-                        "Koku": "Lavanta"
+                        "Ağırlık": "25,3 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Cif Cream Deterjan",
-                    "image": "/images/product.jpg",
+                    "title": "Diversey Suma A8.8",
+                    "image": "/images/products/diversey/diversey_15.webp",
                     "details": {
-                        "Hacim": "500 ml",
-                        "Koli Adedi": "15",
-                        "Koku": "Okaliptüs"
+                        "Ağırlık": "20,2 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Domestos Yoğun Kıvamlı Çamaşır Suyu",
-                    "image": "/images/product.jpg",
+                    "title": "Diversey Suma Expert Elde Bulaşık",
+                    "image": "/images/default.jpg",
                     "details": {
-                        "Hacim": "2 L",
-                        "Koli Adedi": "6",
-                        "Koku": "Çam"
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Marc Konsantre Bulaşık Deterjanı",
-                    "image": "/images/product.jpg",
+                    "title": "Diversey Suma Expert Elde Bulaşık",
+                    "image": "/images/default.jpg",
                     "details": {
-                        "Hacim": "1.25 L",
-                        "Koli Adedi": "8",
-                        "Koku": "Elma"
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "2"
                     }
                 },
                 {
-                    "title": "Viking Ultra Güçlü Deterjan",
-                    "image": "/images/product.jpg",
+                    "title": "Diversey K1 Ön Daldırma",
+                    "image": "/images/products/diversey/diversey_16.webp",
                     "details": {
-                        "Hacim": "3 L",
-                        "Koli Adedi": "4",
-                        "Koku": "Deniz"
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": ""
+                    }
+                },
+                {
+                    "title": "Diversey K1 Ön Daldırma",
+                    "image": "/images/products/diversey/diversey_19.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "2"
+                    }
+                },
+                {
+                    "title": "Diversey Calx",
+                    "image": "/images/products/diversey/diversey_8.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "2"
                     }
                 }
             ]
         },
         {
-            "title": "Kağıt Havlular",
+            "title": "Deterjan",
             "products": [
                 {
-                    "title": "Selpak Professionel Sensörlü Makine Havlusu",
-                    "image": "/images/product.jpg",
+                    "title": "EQUINOX Elde Bulaşık 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_4.webp",
                     "details": {
-                        "Yaprak Eni": "21 cm",
-                        "Kat Sayısı": "2",
-                        "Net Koli Ağırlığı": "6 kg",
-                        "Rulo Uzunluğu": "135 m"
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Onesto Sensörlü Makine Havlusu",
-                    "image": "/images/product.jpg",
+                    "title": "EQUINOX Elde Bulaşık 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_5.webp",
                     "details": {
-                        "Yaprak Eni": "21 cm",
-                        "Kat Sayısı": "2",
-                        "Net Koli Ağırlığı": "4 kg",
-                        "Rulo Uzunluğu": "75 m"
-                    }
-                },
-                {
-                    "title": "Premium Z Katlı Havlu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Yaprak Eni": "24 cm",
-                        "Kat Sayısı": "2",
-                        "Net Koli Ağırlığı": "5 kg",
-                        "Yaprak Sayısı": "200"
-                    }
-                },
-                {
-                    "title": "Eco Mini Jumbo Havlu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Yaprak Eni": "21 cm",
-                        "Kat Sayısı": "2",
-                        "Net Koli Ağırlığı": "3 kg",
-                        "Rulo Uzunluğu": "50 m"
-                    }
-                },
-                {
-                    "title": "Ultra Mutfak Havlusu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Yaprak Eni": "22 cm",
-                        "Kat Sayısı": "3",
-                        "Net Koli Ağırlığı": "7 kg",
-                        "Rulo Sayısı": "12"
-                    }
-                },
-                {
-                    "title": "Endüstriyel Havlu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Yaprak Eni": "25 cm",
-                        "Kat Sayısı": "1",
-                        "Net Koli Ağırlığı": "8 kg",
-                        "Rulo Uzunluğu": "200 m"
-                    }
-                },
-                {
-                    "title": "Dispenser Havlu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Yaprak Eni": "20 cm",
-                        "Kat Sayısı": "2",
-                        "Net Koli Ağırlığı": "5.5 kg",
-                        "Yaprak Sayısı": "150"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Mikrodalga Paket Ürünleri",
-            "products": [
-                {
-                    "title": "PP Mikrodalga Kap 750 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "750 ml",
-                        "Adet/Koli": "250"
-                    }
-                },
-                {
-                    "title": "PP Mikrodalga Kap 1000 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "1000 ml",
-                        "Adet/Koli": "200"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Oval Kap 500 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "500 ml",
-                        "Adet/Koli": "300"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Bölmeli Kap 800 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "800 ml",
-                        "Adet/Koli": "180"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Çorba Kabı 350 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "350 ml",
-                        "Adet/Koli": "400"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Yuvarlak Kap 650 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "650 ml",
-                        "Adet/Koli": "280"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Dikdörtgen Kap 1200 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "1200 ml",
-                        "Adet/Koli": "150"
-                    }
-                },
-                {
-                    "title": "Mikrodalga Mini Kap 250 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Polipropilen",
-                        "Hacim": "250 ml",
-                        "Adet/Koli": "500"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Salata ve Gıda Kapları",
-            "products": [
-                {
-                    "title": "PET Salata Kabı 500 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "500 ml",
-                        "Adet/Koli": "300"
-                    }
-                },
-                {
-                    "title": "PET Gıda Kabı 1000 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "1000 ml",
-                        "Adet/Koli": "200"
-                    }
-                },
-                {
-                    "title": "PET Yuvarlak Kap 750 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "750 ml",
-                        "Adet/Koli": "250"
-                    }
-                },
-                {
-                    "title": "PET Oval Kap 1200 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "1200 ml",
-                        "Adet/Koli": "180"
-                    }
-                },
-                {
-                    "title": "PET Bölmeli Kap 800 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "800 ml",
-                        "Adet/Koli": "220"
-                    }
-                },
-                {
-                    "title": "PET Mini Kap 250 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "250 ml",
-                        "Adet/Koli": "400"
-                    }
-                },
-                {
-                    "title": "PET Jumbo Kap 2000 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "2000 ml",
-                        "Adet/Koli": "150"
-                    }
-                },
-                {
-                    "title": "PET Dikdörtgen Kap 1500 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "1500 ml",
-                        "Adet/Koli": "160"
-                    }
-                },
-                {
-                    "title": "PET Üçgen Kap 600 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "PET",
-                        "Hacim": "600 ml",
-                        "Adet/Koli": "280"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Bardaklar",
-            "products": [
-                {
-                    "title": "Karton Bardak 200 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "200 ml",
-                        "Adet/Koli": "1000",
-                        "Baskı": "Baskılı"
-                    }
-                },
-                {
-                    "title": "Plastik Bardak 300 ml",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "300 ml",
-                        "Adet/Koli": "500",
-                        "Baskı": "Baskısız"
-                    }
-                },
-                {
-                    "title": "Karton Bardak 8 oz",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "240 ml",
-                        "Adet/Koli": "1000",
-                        "Baskı": "Özel Baskı"
-                    }
-                },
-                {
-                    "title": "Plastik Soğuk İçecek Bardağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "400 ml",
-                        "Adet/Koli": "500",
-                        "Baskı": "Şeffaf"
-                    }
-                },
-                {
-                    "title": "Karton Çorba Bardağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "450 ml",
-                        "Adet/Koli": "500",
-                        "Baskı": "Baskılı"
-                    }
-                },
-                {
-                    "title": "Plastik Kristal Bardak",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "180 ml",
-                        "Adet/Koli": "2000",
-                        "Baskı": "Şeffaf"
-                    }
-                },
-                {
-                    "title": "Karton Sıcak İçecek Bardağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "120 ml",
-                        "Adet/Koli": "2000",
-                        "Baskı": "Baskılı"
-                    }
-                },
-                {
-                    "title": "Plastik Milkshake Bardağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "500 ml",
-                        "Adet/Koli": "400",
-                        "Baskı": "Şeffaf"
-                    }
-                },
-                {
-                    "title": "Karton Double Wall Bardak",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "350 ml",
-                        "Adet/Koli": "500",
-                        "Baskı": "Baskılı"
-                    }
-                },
-                {
-                    "title": "Plastik Shot Bardağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "60 ml",
-                        "Adet/Koli": "2500",
-                        "Baskı": "Şeffaf"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Köpük Tabaklar",
-            "products": [
-                {
-                    "title": "Köpük Tabak 20x30 cm",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "20x30 cm",
-                        "Adet/Koli": "100"
-                    }
-                },
-                {
-                    "title": "Köpük Tabak 25x35 cm",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "25x35 cm",
-                        "Adet/Koli": "80"
-                    }
-                },
-                {
-                    "title": "Köpük Hamburger Kutusu",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "15x15 cm",
-                        "Adet/Koli": "500"
-                    }
-                },
-                {
-                    "title": "Köpük Çorba Kasesi",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "12 cm çap",
-                        "Adet/Koli": "1000"
-                    }
-                },
-                {
-                    "title": "Köpük Servis Tabağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "18x23 cm",
-                        "Adet/Koli": "200"
-                    }
-                },
-                {
-                    "title": "Köpük Bölmeli Tabak",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "22x28 cm",
-                        "Adet/Koli": "150"
-                    }
-                },
-                {
-                    "title": "Köpük Tatlı Kabı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "10x10 cm",
-                        "Adet/Koli": "1000"
-                    }
-                },
-                {
-                    "title": "Köpük Meze Tabağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "15x20 cm",
-                        "Adet/Koli": "300"
-                    }
-                },
-                {
-                    "title": "Köpük Piknik Tabağı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "20x20 cm",
-                        "Adet/Koli": "200"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Kilitli Poşetler",
-            "products": [
-                {
-                    "title": "Kilitli Poşet 1 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "18x20 cm",
-                        "Adet/Koli": "1000"
-                    }
-                },
-                {
-                    "title": "Kilitli Poşet 2 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "22x28 cm",
-                        "Adet/Koli": "500"
-                    }
-                },
-                {
-                    "title": "Mini Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "8x12 cm",
-                        "Adet/Koli": "2000"
-                    }
-                },
-                {
-                    "title": "Jumbo Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "30x40 cm",
-                        "Adet/Koli": "250"
-                    }
-                },
-                {
-                    "title": "Derin Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "25x35 cm",
-                        "Adet/Koli": "400"
-                    }
-                },
-                {
-                    "title": "Standart Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "15x25 cm",
-                        "Adet/Koli": "800"
-                    }
-                },
-                {
-                    "title": "XL Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "35x45 cm",
-                        "Adet/Koli": "200"
-                    }
-                },
-                {
-                    "title": "Özel Boy Kilitli Poşet",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "20x30 cm",
-                        "Adet/Koli": "600"
-                    }
-                }
-            ]
-        },
-        {
-            "title": "Hijyen Ürünleri",
-            "products": [
-                {
-                    "title": "Steril Eldiven",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Lateks",
-                        "Adet/Koli": "1000"
-                    }
-                },
-                {
-                    "title": "Dezenfektan 1 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "1 Litre",
-                        "Koli Adedi": "10"
-                    }
-                },
-                {
-                    "title": "Cerrahi Maske",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "3 Katlı",
-                        "Adet/Koli": "2000"
-                    }
-                },
-                {
-                    "title": "El Dezenfektan Jeli",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "500 ml",
-                        "Koli Adedi": "24"
-                    }
-                },
-                {
-                    "title": "Nitril Eldiven",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Malzeme": "Nitril",
-                        "Adet/Koli": "1000"
-                    }
-                },
-                {
-                    "title": "Yüzey Dezenfektanı",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Hacim": "5 Litre",
+                        "Ağırlık": "5 Kg",
                         "Koli Adedi": "4"
                     }
                 },
                 {
-                    "title": "Bone",
-                    "image": "/images/product.jpg",
+                    "title": "LİDO Elde Bulaşık 30 Kg",
+                    "image": "/images/products/lido/lido_1.webp",
                     "details": {
-                        "Malzeme": "Spunbond",
-                        "Adet/Koli": "1000"
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Galoş",
-                    "image": "/images/product.jpg",
+                    "title": "LİDO Elde Bulaşık 5 Kg",
+                    "image": "/images/products/lido/lido_2.webp",
                     "details": {
-                        "Malzeme": "CPE",
-                        "Adet/Koli": "2000"
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
                     }
                 },
                 {
-                    "title": "Antiseptik Mendil",
-                    "image": "/images/product.jpg",
+                    "title": "EQUINOX Makine Deterjanı Matik 23 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_6.webp",
                     "details": {
-                        "Boyut": "15x20 cm",
-                        "Adet/Koli": "1000"
+                        "Ağırlık": "23 Kg",
+                        "Koli Adedi": "1"
                     }
                 },
                 {
-                    "title": "Koruyucu Tulum",
-                    "image": "/images/product.jpg",
+                    "title": "EQUINOX Makine Parlatıcısı Rinse 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_7.webp",
                     "details": {
-                        "Malzeme": "PP",
-                        "Adet/Koli": "50"
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Makine Kreç Çözücü 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_18.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Çamaşır Suyu Ultra 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_15.webp",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Çamaşır Suyu Ultra 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_16.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "Lido Çamaşır Suyu Ultra 30 Kg",
+                    "image": "/images/products/lido/lido_5.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "Lido Çamaşır Suyu Ultra 5 Kg ",
+                    "image": "/images/products/lido/lido_6.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Çamaşır Suyu 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_12.webp",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Çamaşır Suyu 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_13.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "LİDO Çamaşır Suyu 30 Kg ",
+                    "image": "/images/products/lido/lido_8.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Çamaşır Suyu 5 Kg",
+                    "image": "/images/products/lido/lido_26.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Yüzey Temizleyici Lavanta/Çiçek 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_3.webp",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Yüzey Temizleyici Lavanta/Çiçek 30 Kg",
+                    "image": "/images/products/lido/lido_7.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Yüzey Temizleyici Lavanta/Çiçek 5 Kg",
+                    "image": "/images/products/lido/lido_10.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Sıvı El Sabunu Flower/Soft 20 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_8.webp",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Sıvı El Sabunu Flower/Soft 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_9.webp",
+                    "details": {
+                        "Ağırlık": "5",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "LİDO Sıvı El Sabunu Sedefli Pembe 30 Kg",
+                    "image": "/images/products/lido/lido_12.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Sıvı El Sabunu Sedefli Pembe 5 Kg",
+                    "image": "/images/products/lido/lido_4.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Köpük El Sabunu 20 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Köpük El Sabunu Flower 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "LİDO Köpük El Sabunu Flower 30 Kg",
+                    "image": "/images/products/lido/lido_16.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Köpük El Sabunu Flower 5 Kg",
+                    "image": "/images/products/lido/lido_14.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "CARPEX Kartuş Köpük Sabunu 1 L",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "1 L",
+                        "Koli Adedi": "16"
+                    }
+                },
+                {
+                    "title": "EQUINOX Porselen Tabak Çizik Giderici 5 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_23.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "LİDO Kireç Ve Pas Sökücü 5 Kg",
+                    "image": "/images/products/lido/lido_24.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Çelik Parlatıcı 1 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "1 Kg",
+                        "Koli Adedi": "12*"
+                    }
+                },
+                {
+                    "title": "LİDO Cam Temizleyici 30 Kg",
+                    "image": "/images/products/lido/lido_18.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "LİDO Cam Temizleyici 5 Kg",
+                    "image": "/images/products/lido/lido_21.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Yağ Sökücü 5 Kg Grill Cold",
+                    "image": "/images/products/kimyasal/kimyasal_20.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Yağ Sökücü 1 Kg Grill Cold",
+                    "image": "/images/products/kimyasal/kimyasal_10.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg",
+                        "Koli Adedi": "12"
+                    }
+                },
+                {
+                    "title": "MİSNET Sıvı Arap Sabunu 5 Kg",
+                    "image": "/images/products/lido/lido_22.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "MİSNET Ahşap Temizleyici 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Genel Temizlik Maddesi EXPRİN 20 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "20 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Genel Temizlik Maddesi EXPRİN 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Genel Temizlik Maddesi ORİENTE 1 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_29.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg",
+                        "Koli Adedi": "12"
+                    }
+                },
+                {
+                    "title": "EQUINOX Mineralli Olma Maddesi 30 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_24.webp",
+                    "details": {
+                        "Ağırlık": "30 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Mineralli Olma Maddesi 7 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_25.webp",
+                    "details": {
+                        "Ağırlık": "7 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Halı Ve Döşeme Spreyi HAZEL ACTİON 500 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "500 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "EQUINOX Hava Şartlandırıcı AIR 5 L",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 L",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Hava Şartlandırıcı AIR 500 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "500 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "EQUINOX Oda Parfümü MAGNOLYA Ve SPRİNG 500 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "500 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "LİDO Oda Parfümü 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "DISCOVER Oda Kokusu 320 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "320 Ml",
+                        "Koli Adedi": "12"
+                    }
+                },
+                {
+                    "title": "CARPEX Micro Koku Kartuşu 50 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "50 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "CARPEX A1 Koku Kartuşu 200 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "200 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "CARPEX E2 Koku Kartuşu 125 Ml",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "125 Ml",
+                        "Koli Adedi": "6"
+                    }
+                },
+                {
+                    "title": "Sıvı Kostik 25 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "25 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "Toz Kostik 25 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "25 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Logar Ve Gider Açıcı Pipe On 9 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_22.webp",
+                    "details": {
+                        "Ağırlık": "9 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "EQUINOX Logar Ve Gider Açıcı Pipe On 1.8 Kg",
+                    "image": "/images/products/kimyasal/kimyasal_21.webp",
+                    "details": {
+                        "Ağırlık": "1.8 Kg",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "MİSNET Kolonya Limon 5 Kg",
+                    "image": "/images/products/lido/lido_25.webp",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "BOĞAZİÇİN Kolonya Limon 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "El Dezenfektan 5 Kg",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "5 Kg",
+                        "Koli Adedi": "4"
+                    }
+                },
+                {
+                    "title": "EQUINOX Alkol Bazlı Hijyenik Kova Mendil 250 Adet",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Adet": "250",
+                        "Koli Adedi": "1"
+                    }
+                },
+                {
+                    "title": "Hijyenik Kova Mendil",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Koli Adedi": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Cimbali Kahve Makinesi Temizleyici",
+            "products": [
+                {
+                    "title": "EQUINOX NOX COFFEE Makine Temizleyici",
+                    "image": "/images/products/kimyasal/kimyasal_26.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg"
+                    }
+                },
+                {
+                    "title": "EQUINOX NOX MILKY Süt Sistemi Temizleyici",
+                    "image": "/images/products/kimyasal/kimyasal_28.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg"
+                    }
+                },
+                {
+                    "title": "EQUINOX NOX DESCALE Kahve Mankine Kreç Çözücü",
+                    "image": "/images/products/kimyasal/kimyasal_27.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Kağıt Havlu Peçete",
+            "products": [
+                {
+                    "title": "DENİSS Sensörlü Havlu",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Net Koli Ağırlığı": "3/4/5 Kg",
+                        "Koli Adeti": "6"
+                    }
+                },
+                {
+                    "title": "BELLEZA Extra Sensörlü Havlu",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Net Koli Ağırlığı": "3/4/5 Kg",
+                        "Koli Adeti": "6"
+                    }
+                },
+                {
+                    "title": "BELLEZA Standart Sensörlü Havlu",
+                    "image": "/images/products/paper/paper_18.webp",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Net Koli Ağırlığı": "3/4/5 Kg",
+                        "Koli Adeti": "6"
+                    }
+                },
+                {
+                    "title": "BELLEZA İçten Çekmeli Havlu",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Net Koli Ağırlığı": "3/4/5 Kg",
+                        "Koli Adeti": "6"
+                    }
+                },
+                {
+                    "title": "DENİSS İçten Çekmeli Havlu",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Net Koli Ağırlığı": "3/4/5 Kg",
+                        "Koli Adeti": "6"
+                    }
+                },
+                {
+                    "title": "BELLEZA Rulo Havlu Ev Tipi",
+                    "image": "/images/products/paper/paper_16.webp",
+                    "details": {
+                        "Yaprak Eni": "21 cm",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "24"
+                    }
+                },
+                {
+                    "title": "DENİSS Z Kat Havlu 150'li",
+                    "image": "/images/products/paper/paper_2.webp",
+                    "details": {
+                        "Yaprak Eni": "21x21 cm",
+                        "Kat Sayısı": "2",
+                        "Yaprak Sayısı": "150"
+                    }
+                },
+                {
+                    "title": "DENİSS Z Kat Havlu 200'li",
+                    "image": "/images/products/paper/paper_3.webp",
+                    "details": {
+                        "Yaprak Eni": "21x21 cm",
+                        "Kat Sayısı": "2",
+                        "Yaprak Sayısı": "200"
+                    }
+                },
+                {
+                    "title": "BELLEZA Standart Z Kat Havlu 150'li",
+                    "image": "/images/products/paper/paper_17.webp",
+                    "details": {
+                        "Yaprak Eni": "20x24 cm",
+                        "Kat Sayısı": "2",
+                        "Yaprak Sayısı": "150"
+                    }
+                },
+                {
+                    "title": "BELLEZA Extra Z Kat Havlu 200'lü",
+                    "image": "/images/products/paper/paper_17.webp",
+                    "details": {
+                        "Yaprak Eni": "21x21 cm",
+                        "Kat Sayısı": "2",
+                        "Yaprak Sayısı": "200"
+                    }
+                },
+                {
+                    "title": "BELLEZA Dispenser Peçete Ultra",
+                    "image": "/images/products/paper/paper_10.webp",
+                    "details": {
+                        "Yaprak Eni": "24x24 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "18 Paket 250'li"
+                    }
+                },
+                {
+                    "title": "BELLEZA Dispenser Peçete Extra",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "17x23.5 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "17 Paket 300'lü"
+                    }
+                },
+                {
+                    "title": "BELLEZA Dispenser Standart",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "20x24 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "12 Paket 150'li"
+                    }
+                },
+                {
+                    "title": "DENİZ Dispenser Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "17x22 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "18 Paket 200'lü"
+                    }
+                },
+                {
+                    "title": "RULOPAK Tek Çek Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "11.5x19 cm",
+                        "Koli İçi Adet": "24 Pkaet 150'li"
+                    }
+                },
+                {
+                    "title": "DENİZ Garson Kat Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "33x33 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "12 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "DENİZ Garson Kat Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "33x24 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "40 Paket 30'lu"
+                    }
+                },
+                {
+                    "title": "DENİZ Garson Kat Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "24x24 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "24 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "DENİZ Garson Kat Peçete",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Yaprak Eni": "40x40 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "12 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "DENİZ Kare Peçete",
+                    "image": "/images/products/paper/paper_21.webp",
+                    "details": {
+                        "Yaprak Eni": "24x24 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "50 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "DENİZ Kare Peçete",
+                    "image": "/images/products/paper/paper_21.webp",
+                    "details": {
+                        "Yaprak Eni": "30x30 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "24 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "BELLEZA Garson Kat Peçete",
+                    "image": "/images/products/paper/paper_11.webp",
+                    "details": {
+                        "Yaprak Eni": "33x33 cm",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "24 Paket 50'li"
+                    }
+                },
+                {
+                    "title": "DENİSS Mini Jumbo Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_1.webp",
+                    "details": {
+                        "Ağırlık": "4 Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "12"
+                    }
+                },
+                {
+                    "title": "DENİSS Mini Cimri Tuvalet Kağıdı",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "4 Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "12"
+                    }
+                },
+                {
+                    "title": "DENİSS Cimri Tuvalet Kağıdı",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "4 Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "6"
+                    }
+                },
+                {
+                    "title": "BELLEZA Ultra Mini Jumbo Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_8.webp",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "12"
+                    }
+                },
+                {
+                    "title": "BELLEZA Mini Jumbo Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_8.webp",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "12"
+                    }
+                },
+                {
+                    "title": "BELLEZA Ev Tipi Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_14.webp",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "3",
+                        "Rulo Sayısı": "3 Paket 16'lı"
+                    }
+                },
+                {
+                    "title": "BELLEZA Ev Tipi Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_15.webp",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "3 Paket 24'lü"
+                    }
+                },
+                {
+                    "title": "BELLEZA Ev Tipi Tuvalet Kağıdı",
+                    "image": "/images/products/paper/paper_15.webp",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "2",
+                        "Rulo Sayısı": "3 Paket 16'lı"
+                    }
+                },
+                {
+                    "title": "BRAVA C Kat Tuvalet Kağıdı",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "- Kg",
+                        "Kat Sayısı": "2",
+                        "Koli İçi Adet": "24 Paket 250'li"
+                    }
+                },
+                {
+                    "title": "BELLEZA Kutu Mendil",
+                    "image": "/images/products/paper/paper_5.webp",
+                    "details": {
+                        "Koli İçi Adet": "24 Paket 80'li"
+                    }
+                },
+                {
+                    "title": "BELLEZA Klozet Kapak Örtüsü",
+                    "image": "/images/products/paper/paper_12.webp",
+                    "details": {
+                        "Koli İçi Adet": "24 Paket 250'li"
+                    }
+                },
+                {
+                    "title": "BELLEZA Muayene Masa Örtüsü",
+                    "image": "/images/products/paper/paper_13.webp",
+                    "details": {
+                        "Koli İçi Adet": "6"
+                    }
+                },
+                {
+                    "title": "DENİSS Muayene Masa Örtüsü",
+                    "image": "/images/products/paper/paper_4.webp",
+                    "details": {
+                        "Koli İçi Adet": "6"
                     }
                 }
             ]
@@ -653,136 +907,1269 @@
             "title": "Çöp Poşetleri",
             "products": [
                 {
-                    "title": "Çöp Poşeti 60 Litre",
-                    "image": "/images/product.jpg",
+                    "title": "Çöp Poşeti Mini Boy",
+                    "image": "/images/products/cop/cop_2.webp",
                     "details": {
-                        "Boyut": "60x80 cm",
-                        "Adet/Koli": "500"
+                        "Boyut": "40x47 cm",
+                        "Adet/Koli": "40 Rulo 50 Adet"
                     }
                 },
                 {
-                    "title": "Çöp Poşeti 100 Litre",
-                    "image": "/images/product.jpg",
+                    "title": "Çöp Poşeti Orta Boy",
+                    "image": "/images/products/cop/cop_1.webp",
                     "details": {
-                        "Boyut": "80x100 cm",
-                        "Adet/Koli": "250"
+                        "Boyut": "55x60 cm",
+                        "Adet/Koli": "20 Rulo 25 Adet"
                     }
                 },
                 {
-                    "title": "Mini Çöp Poşeti 30 Litre",
-                    "image": "/images/product.jpg",
+                    "title": "Çöp Poşeti Büyük Boy",
+                    "image": "/images/products/cop/cop_3.webp",
                     "details": {
-                        "Boyut": "40x50 cm",
-                        "Adet/Koli": "1000"
+                        "Boyut": "65x80 cm",
+                        "Adet/Koli": "10 Rulo 25 Adet"
                     }
                 },
                 {
-                    "title": "Endüstriyel Çöp Poşeti 150 Litre",
-                    "image": "/images/product.jpg",
+                    "title": "Çöp Poşeti Battal Boy",
+                    "image": "/images/default.jpg",
                     "details": {
+                        "Boyut": "72x95 cm",
+                        "Adet/Koli": "10 Rulo 20 Adet"
+                    }
+                },
+                {
+                    "title": "Çöp Poşeti Jumbo Boy",
+                    "image": "/images/products/cop/cop_7.webp",
+                    "details": {
+                        "Ağırlık": "400 Gr",
+                        "Boyut": "80x110 cm",
+                        "Adet/Koli": "10 Rulo 20 Adet"
+                    }
+                },
+                {
+                    "title": "Çöp Poşeti Jumbo Boy",
+                    "image": "/images/products/cop/cop_7.webp",
+                    "details": {
+                        "Ağırlık": "600 Gr",
+                        "Boyut": "80x110 cm",
+                        "Adet/Koli": "10 Rulo 10 Adet"
+                    }
+                },
+                {
+                    "title": "Çöp Poşeti Jumbo Boy",
+                    "image": "/images/products/cop/cop_6.webp",
+                    "details": {
+                        "Ağırlık": "800 Gr",
+                        "Boyut": "80x110 cm",
+                        "Adet/Koli": "10 Rulo 10 Adet"
+                    }
+                },
+                {
+                    "title": "Çöp Poşeti Jumbo Boy",
+                    "image": "/images/products/cop/cop_7.webp",
+                    "details": {
+                        "Ağırlık": "1000 Gr",
+                        "Boyut": "80x110 cm",
+                        "Adet/Koli": "10 Rulo 10 Adet"
+                    }
+                },
+                {
+                    "title": "Çöp Poşeti Hantal Boy",
+                    "image": "/images/products/cop/cop_4.webp",
+                    "details": {
+                        "Ağırlık": "800 Gr",
                         "Boyut": "100x150 cm",
-                        "Adet/Koli": "100"
+                        "Adet/Koli": "10 Rulo 10 Adet"
                     }
                 },
                 {
-                    "title": "Büro Tipi Çöp Poşeti 40 Litre",
-                    "image": "/images/product.jpg",
+                    "title": "Çöp Poşeti Hantal Boy",
+                    "image": "/images/products/cop/cop_5.webp",
                     "details": {
-                        "Boyut": "50x60 cm",
-                        "Adet/Koli": "750"
-                    }
-                },
-                {
-                    "title": "Battal Boy Çöp Poşeti 120 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "90x110 cm",
-                        "Adet/Koli": "200"
-                    }
-                },
-                {
-                    "title": "Rulo Çöp Poşeti 55 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
-                        "Boyut": "55x70 cm",
-                        "Adet/Koli": "600"
-                    }
-                },
-                {
-                    "title": "Jumbo Çöp Poşeti 200 Litre",
-                    "image": "/images/product.jpg",
-                    "details": {
+                        "Ağırlık": "800 Gr",
                         "Boyut": "120x150 cm",
-                        "Adet/Koli": "50"
+                        "Adet/Koli": "10 Rulo 10 Adet"
+                    }
+                },
+                {
+                    "title": "FLOREX Çöp Poşeti",
+                    "image": "/images/products/florex/florex_5.webp",
+                    "details": {
+                        "Ağırlık": "- Gr",
+                        "Boyut": "- cm",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "FLOREX Sıfır Atık Çöp Poşetleri",
+                    "image": "/images/products/florex/florex_3.webp",
+                    "details": {
+                        "Renkler": "Mavi/Sarı/Yeşil/Kahve/Gri",
+                        "Ağırlık": "- Gr",
+                        "Boyut": "- cm",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Dökme Çöp Poşeti",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Ağırlık": "- Gr",
+                        "Boyut": "80x110 / 100x150 cm",
+                        "Adet/Koli": "-"
                     }
                 }
             ]
         },
         {
-            "title": "Ofis ve Kırtasiye Ürünleri",
+            "title": "Eldivenler",
             "products": [
                 {
-                    "title": "A4 Kağıt 80 gr",
-                    "image": "/images/product.jpg",
+                    "title": "Eldiven Nitril Siyah",
+                    "image": "/images/products/eldiven/eldiven_2.webp",
                     "details": {
-                        "Paket/Koli": "5",
-                        "Yaprak Adedi": "500"
+                        "Beden": "S/M/L",
+                        "Koli İçi Adet": "20 Paket 100'lü"
                     }
                 },
                 {
-                    "title": "Tükenmez Kalem",
-                    "image": "/images/product.jpg",
+                    "title": "Eldiven Nitril Mavi",
+                    "image": "/images/products/eldiven/eldiven_1.webp",
                     "details": {
-                        "Renk": "Mavi",
-                        "Adet/Koli": "100"
+                        "Beden": "S/M/L",
+                        "Koli İçi Adet": "20 Paket 100'lü"
                     }
                 },
                 {
-                    "title": "Ataş 28mm",
-                    "image": "/images/product.jpg",
+                    "title": "Eldiven Pudrasız",
+                    "image": "/images/products/eldiven/eldiven_3.webp",
                     "details": {
-                        "Boyut": "28mm",
-                        "Adet/Kutu": "100"
+                        "Beden": "S/M/L",
+                        "Koli İçi Adet": "20 Paket 100'lü"
                     }
                 },
                 {
-                    "title": "Zımba Teli",
-                    "image": "/images/product.jpg",
+                    "title": "Eldiven Pudralı",
+                    "image": "/images/products/eldiven/eldiven_3.webp",
                     "details": {
-                        "Model": "24/6",
-                        "Adet/Kutu": "1000"
+                        "Beden": "S/M/L",
+                        "Koli İçi Adet": "20 Paket 100'lü"
                     }
                 },
                 {
-                    "title": "Yapıştırıcı Stick",
-                    "image": "/images/product.jpg",
+                    "title": "Bulaşık Eldiveni",
+                    "image": "/images/products/eldiven/eldiven_4.webp",
                     "details": {
-                        "Ağırlık": "40gr",
-                        "Adet/Koli": "24"
+                        "Beden": "8/8.5 9/9.5",
+                        "Adet": "1"
                     }
                 },
                 {
-                    "title": "Karton Klasör",
-                    "image": "/images/product.jpg",
+                    "title": "Bulaşık Eldiveni Uzun Konçlu",
+                    "image": "/images/products/eldiven/eldiven_4.webp",
                     "details": {
-                        "Renk": "Mavi",
-                        "Adet/Koli": "25"
+                        "Beden": "M/L/XL",
+                        "Adet": "1"
                     }
                 },
                 {
-                    "title": "Poşet Dosya",
-                    "image": "/images/product.jpg",
+                    "title": "İş Eldiveni",
+                    "image": "/images/products/eldiven/eldiven_6.webp",
                     "details": {
-                        "Boyut": "A4",
+                        "Beden": "-",
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Eldiven Şeffaf Servis",
+                    "image": "/images/products/eldiven/eldiven_5.webp",
+                    "details": {
+                        "Beden": "-",
+                        "Adet": "100 Adet"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Temizlik Bezleri",
+            "products": [
+                {
+                    "title": "Mikrofiber Temizlik Bezi",
+                    "image": "/images/products/bez/bez_3.webp",
+                    "details": {
+                        "Boyut": "40x40 cm",
+                        "Adet/Paket": "20"
+                    }
+                },
+                {
+                    "title": "Mikrofiber Lüx Temizlik Bezi",
+                    "image": "/images/products/bez/bez_3.webp",
+                    "details": {
+                        "Boyut": "40x40 cm",
+                        "Adet/Paket": "20"
+                    }
+                },
+                {
+                    "title": "Mikrofiber Cam Temizlik Bezi",
+                    "image": "/images/products/bez/bez_4.webp",
+                    "details": {
+                        "Boyut": "40x40 cm",
+                        "Adet/Paket": "20"
+                    }
+                },
+                {
+                    "title": "Mermerşahi Temizlik Bezi",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Temizlik Bezi Sarı",
+                    "image": "/images/products/bez/bez_2.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Kurulama Bezi",
+                    "image": "/images/products/bez/bez_5.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Bulaşık Top Tel",
+                    "image": "/images/products/bez/bez_7.webp",
+                    "details": {
+                        "Ağırlık": "40/60 Gr",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Endüstriyel Bulaşık Süngeri 4'lü",
+                    "image": "/images/products/bez/bez_6.webp",
+                    "details": {
+                        "Adet/Paket": "4"
+                    }
+                },
+                {
+                    "title": "Oluklu Bulaşık Süngeri",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Adet/Paket": "-"
+                    }
+                },
+                {
+                    "title": "Bulaşık Süngeri",
+                    "image": "/images/default.jpg",
+                    "details": {
+                        "Adet/Paket": "-"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Mop ve Aparat",
+            "products": [
+                {
+                    "title": "Nemli Mop Extra 50/60/80 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "50/60/80 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Nemli Mop Kat Kesik 50/60/80 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "50/60/80 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Orlon Mop 50/60/80 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "50/60/80 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Nemli Mop Palet Aparat 50/60/80 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "50/60/80 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Yedek Mop Vidalı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Yedek Mop Spin",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Islak Mop Dar",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "500 Gr",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Kaskam Mop Dar",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "500 Gr",
+                        "Adet/Paket": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Diğer Sarf Malzemeleri",
+            "products":[
+                {
+                    "title": "Gürgan Sap 120/150 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "120/150 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Dar Yaylı Metal Aparat",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "-Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Vidalı Gri Metal Sap",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "-Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Vidalı Kırmızı Metal Sap",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "-Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Hazneli Faraş Takımı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "-Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Ayaklı Faraş Takımı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "-Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Yerçek Plastik 55/75 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "55/75 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Yerçek Metal 55/75 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "55/75 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Camçek Plastik 35 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "35 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Camçek Metal 35 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "35 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Camçek Plastik Peluş Aparat",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Camçek Peluş",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Çalı Süpürgesi",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Oto Fırça 17/20 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "17/20 Cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "Galoş",
+                    "image": "/images/products/product.webp",
+                    "details": {
                         "Adet/Paket": "100"
                     }
                 },
                 {
-                    "title": "Post-it Notes",
-                    "image": "/images/product.jpg",
+                    "title": "Bone",
+                    "image": "/images/products/product.webp",
                     "details": {
-                        "Boyut": "76x76mm",
-                        "Yaprak/Paket": "100"
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Kolluk",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Tek Kullanımlık Tela Önlük",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Maske",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Bulaşıkçı Önlüğü PVC",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Temizlik Setleri",
+            "products": [
+                {
+                    "title": "Çift Kovalı Temizlik Seti Plastik",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Çift Kovalı Temizlik Seti Metal",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Çift Kovalı Temizlik Pres Plastik",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Çift Kovalı Temizlik Pres Metal",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Çift Kovalı Temizlik Arabası Kovası",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Vilada Set Klasik",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                },
+                {
+                    "title": "Vilada Set Döner Başlık",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Pipet, Kürdan, Çöp, Şiş",
+            "products": [
+                {
+                    "title": "Pipet Frozan Körüklü Jelatinli",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Piper Frozen Düz Jelatinli",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Piper Frozen",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Piper Kağıt Sargılı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Kürdan Jelatinli",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "250'li",
+                        "Koli Adedi": "50 Paket 250'li"
+                    }
+                },
+                {
+                    "title": "Kürdan Kağıt Sargılı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Tahta Karıştırıcı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "400'lü",
+                        "Koli Adedi": "50 Paket 400'lü"
+                    }
+                },
+                {
+                    "title": "Plastik Karıştırıcı",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "500'lü",
+                        "Koli Adedi": "50 Paket 500'lü"
+                    }
+                },
+                {
+                    "title": "Çöp Şiş 15/20/25/30 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "15/20/25/30 cm",
+                        "Adet/Paket": "100'lü",
+                        "Koli Adedi": "100 Paket 100'lü"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Strech Film, Alüminyum Folyo",
+            "products": [
+                {
+                    "title": "İLKA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "30x270 cm",
+                        "Adet/Paket": "24"
+                    }
+                },
+                {
+                    "title": "İLKA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "45x270 cm",
+                        "Adet/Paket": "16"
+                    }
+                },
+                {
+                    "title": "İLKA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "45x1500 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "FİNURA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "30x270 cm",
+                        "Adet/Paket": "10"
+                    }
+                },
+                {
+                    "title": "FİNURA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "45x270 cm",
+                        "Adet/Paket": "10"
+                    }
+                },
+                {
+                    "title": "FİNURA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "45x1500 cm",
+                        "Adet/Paket": "1"
+                    }
+                },
+                {
+                    "title": "GREEN Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "-"
+                    }
+                },
+                {
+                    "title": "SERA Strech Film",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "-"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Folyo",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "30x1000 cm",
+                        "Adet/Paket": "20"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Folyo",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "45x1000 cm",
+                        "Adet/Paket": "20"
+                    }
+                },
+                {
+                    "title": "Pişirme Kağıdı Kutulu",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "1"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "AlÜminyum Kap, Kapak",
+            "products": [
+                {
+                    "title": "AlÜminyum Kap 350 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "350 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 750 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "750 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 1000 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "1000 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 1500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "1500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 2500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "2500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 3250 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "3250 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 2 Gözlü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap 3 Gözlü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap Oval Tepsi",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kap Sütlaç Kâse",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Sup Kâse",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "AlÜminyum Kâse Kapak 350/500/750/1000/1500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "350/500/750/1000/1500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Sızdırmaz Kap",
+            "products": [
+                {
+                    "title": "Sızdırmaz Kap 150 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "150 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 250 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "250 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 375 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "375 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 750 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "750 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 1000 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "1000 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 1500 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "1500 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sızdırmaz Kap 2000 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "2000 Gr",
+                        "Adet/Paket": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Karton Bardak",
+            "products": [
+                {
+                    "title": "Karton Bardak 4 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "4 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak 7 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "7 oz",
+                        "Adet/Koli": "3000",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak 8 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "8 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak 12 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "12 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Double Wall 8 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "8 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Double Wall 14 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "14 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Double Wall 16 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "16 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Emzik Kapak 8 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "8 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Emzik Kapak 12 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "12 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Emzik Kapak 14 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "14 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Emzik Kapak 16 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "16 oz",
+                        "Adet/Koli": "-",
+                        "Baskı": "Klasik Baskı"
+                    }
+                },
+                {
+                    "title": "Karton Bardak Plastik Tıkaç",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "-",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Kraft Karton Salata Kâsesi 550/750/1100/1300 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "550/750/1100/1300 cc",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Karton Çorba Kâse 16 oz",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "16 oz",
+                        "Adet/Koli": "-"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Köpük Tabak",
+            "products": [
+                {
+                    "title": "Köpük Tabak 500/1000 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "500/1000 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak Bölmesiz Kapaklı 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 2 Bölme Kapaklı 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 2 Bölme Kapaksız 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 3 Bölme Kapaklı 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 3 Bölme Kapaksız 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 5 Bölme 100'lü",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak 20/23 Cm",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "20/23 cm",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak Sandviç",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak Turuncu",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Köpük Tabak Siyah",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Boyut": "- cm",
+                        "Adet/Paket": "100"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Plastik Kâse, Plastik Çatal Kaşık, Sos Kap, Plastik Bardak",
+            "products": [
+                {
+                    "title": "Plastik Kâse 250/500/1000 Gr",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "250/500/1000 Gr",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Plastik Sup Kâse",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Plastik Sup Kâse Kapak",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Plastik Bardak 180 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "30 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Plastik Kaşık, Çatal, Bıçak",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "40 Paket 100'lü"
+                    }
+                },
+                {
+                    "title": "Sos Kap Kapaksız 20/30/40/50 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "20/30/40/50 Cc",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Sos Kap Kapaklı 20/30/40/50 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "20/30/40/50 Cc",
+                        "Adet/Paket": "100"
+                    }
+                },
+                {
+                    "title": "Plastik Set 4/5/6/7'li",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Paket": "-"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Gıda Kap",
+            "products": [
+                {
+                    "title": "Salata Kabı 500/1000 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "500/1000 Cc",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Salata Kabı + Kapak 500/1000 Cc",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "500/1000 Cc",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Mikrodalga Tek Bölme Kap + Kapak",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "-",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Mikrodalga 2 Bölme Kap + Kapak",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "-",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Mikrodalga 3 Bölme Kap + Kapak",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "-",
+                        "Adet/Koli": "-"
+                    }
+                },
+                {
+                    "title": "Mikrodalga Çorba Kâse",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Malzeme": "Plastik",
+                        "Ağırlık": "-",
+                        "Adet/Koli": "-"
+                    }
+                }
+            ]
+        },
+        {
+            "title": "Buzdolabı, Atlet Poşeti",
+            "products": [
+                {
+                    "title": "Buzdolabı Poşeti Küçük/Orta/Büyük Boy",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Adet/Koli": "1"
+                    }
+                },
+                {
+                    "title": "Atlet Poşeti Küçük/Orta/Büyük Boy",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağırlık": "1 Kg"
+                    }
+                },
+                {
+                    "title": "Manav Rulo Poşeti Küçük/Orta/Büyük Boy",
+                    "image": "/images/products/product.webp",
+                    "details": {
+                        "Ağrılık": "- Kg"
                     }
                 }
             ]

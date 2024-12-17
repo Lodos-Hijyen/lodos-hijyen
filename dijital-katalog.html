@@ -2,7 +2,6 @@
 <html lang="tr">
 
 <head>
-    
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-7GXVN03H02"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -31,7 +30,7 @@
     </script>
     <meta charset="UTF-8">
     <title>Lodos Hijyen Official | Dijital Katalog</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="M.E.K">
     <meta name="keywords"
         content="Lodos Hijyen, temizlik malzemeleri, hijyen çözümleri, hızlı teslimat, profesyonel temizlik ürünleri, okul temizlik ürünleri, restoran temizlik ürünleri, güvenilir temizlik malzemeleri, işletme hijyeni">
@@ -53,90 +52,25 @@
     <meta name="twitter:image" content="https://lodoshijyen.com/images/lodos-hijyen-og-image.png">
 
     <link rel="icon" type="image/x-icon" href="/images/favicon.ico">
+    <link rel="stylesheet" href="/style/digital-catalog.min.css">
 
     <link rel="preload" href="/style/loader.min.css" as="style" onload="this.rel='stylesheet'">
+    <link rel="preload" href="/fonts/DMSans-Light.ttf" as="font" type="font/ttf" crossorigin="anonymous">
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/smoothscroll/1.5.1/SmoothScroll.min.js"
+        integrity="sha512-BkMKSo7sGBeDmtIyZoyInJbrI/XqQ1ez6SZotOL0e+iT6tzOjBmtMpWWPUVbcdqLbaukREItSDV2aohX+9gBlw=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
 </head>
 
-<style>
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        text-decoration: none;
-        list-style-type: none;
-    }
-
-
-    body,
-    html {
-        font-size: 16px;
-        background: -webkit-linear-gradient(-30deg, #29a8e4 53.19%, #05608a 107.69%);
-    }
-
-    main {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        gap: 70px;
-        height: 100dvh;
-        padding: 10px;
-        position: relative;
-
-        &::after {
-            position: absolute;
-            pointer-events: none;
-            background-image: url("../images/noise.png");
-            bottom: 0;
-            content: "";
-            display: block;
-            left: 0;
-            opacity: .5;
-            right: 0;
-            top: 0;
-            width: 100%;
-        }
-
-        img {
-            width: 350px;
-        }
-
-        h1,
-        h3 {
-            text-align: center;
-            font-family: DMSans-Regular;
-        }
-
-        h1 {
-            color: #f2f3f2;
-        }
-
-        #link {
-            text-decoration: underline;
-            color: #0e0e0e;
-        }
-    }
-
-    @font-face {
-        font-family: DMSans-Regular;
-        src: url("/fonts/DMSans-Regular.ttf");
-    }
-
-    @media screen and (max-width: 450px) {
-        main {
-            gap: 40px;
-
-            img {
-                width: 90% !important;
-            }
-
-            font-size: 0.7rem !important;
-        }
-    }
-</style>
-
 <body>
-    <!-- Loader Screen -->
     <div id="loading-screen">
         <svg xmlns="http://www.w3.org/2000/svg" id="loader-brand" width="1080" viewBox="0 0 455 118">
             <path
@@ -146,39 +80,365 @@
         <span id="percentage"></span>
     </div>
 
+    <header data-aos="fade-down">
+        <div id="logo-container">
+            <a href="https://www.lodoshijyen.com/" class="contact" target="_blank" rel="noopener noreferrer">
+                <img src="/images/logo.png" alt="Lodos Hijyen Logo">
+            </a>
+        </div>
+
+        <div id="nav-container">
+            <ul>
+                <a href="/" class="link">
+                    <li>Ana Sayfa</li>
+                </a>
+                <a href="/#about-us-container" class="link">
+                    <li>Hakkımızda</li>
+                </a>
+                <a href="/#contact-us-container" class="link">
+                    <li>İletişim</li>
+                </a>
+                <a href="/dijital-katalog" id="digital-catalog-link" class="contact"
+                    onclick="trackButtonClick('Contacts', 'Digital-Catalog Clicked')">
+                    <li>Dijital Katalog</li>
+                </a>
+            </ul>
+        </div>
+
+        <div id="hamburger">
+            <span class="line"></span>
+            <span class="line"></span>
+        </div>
+    </header>
     <main>
-        <img src="/images/logo.png" alt="">
-        <h1>
-            Dijital Kataloğumuz Çok Yakında Hizmete Girecektir.
-        </h1>
-        <a href="/" class="contact">
-            <h1 id="link">
-                Ana Sayfa
-            </h1>
-        </a>
+        <div id="digital-catalog-container">
+            <div class="swiper-container" id="products-nav-container" data-aos="fade-down">
+                <div class="swiper-wrapper">
+                </div>
+                <div class="swiper-scrollbar"></div>
+            </div>
+            <div id="products-container">
+            </div>
+        </div>
+
+        <div id="contact-us-container" class="section">
+            <div id="contact-us-details">
+                <h3 data-aos="fade-down" data-aos-delay="0">Daha Temiz Ve Daha Hesaplı<br class="large-br">
+                    Hijyen Çözümü İçin, Bize Ulaşın</h3>
+            </div>
+            <div id="contacts" data-aos="fade-down" data-aos-delay="50">
+                <div id="top-contacts">
+                    <a href="tel:+905394036753" class="contact" target="_blank" rel="noopener noreferrer"
+                        onclick="trackButtonClick('Contacts', 'Phone Clicked')">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-arrow" viewBox="0 0 24 24">
+                            <path
+                                d="M19,13.5v5c0,3.033-2.467,5.5-5.5,5.5H5.5c-3.033,0-5.5-2.467-5.5-5.5V10.5c0-3.033,2.467-5.5,5.5-5.5h5c.829,0,1.5,.671,1.5,1.5s-.671,1.5-1.5,1.5H5.5c-1.378,0-2.5,1.122-2.5,2.5v8c0,1.378,1.122,2.5,2.5,2.5H13.5c1.378,0,2.5-1.122,2.5-2.5v-5c0-.829,.671-1.5,1.5-1.5s1.5,.671,1.5,1.5ZM20.5,0h-5c-.829,0-1.5,.671-1.5,1.5s.671,1.5,1.5,1.5h3.379L8.439,13.439c-.586,.585-.586,1.536,0,2.121,.293,.293,.677,.439,1.061,.439s.768-.146,1.061-.439L21,5.121v3.379c0,.829,.671,1.5,1.5,1.5s1.5-.671,1.5-1.5V3.5c0-1.93-1.57-3.5-3.5-3.5Z" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M13,1a1,1,0,0,1,1-1A10.011,10.011,0,0,1,24,10a1,1,0,0,1-2,0,8.009,8.009,0,0,0-8-8A1,1,0,0,1,13,1Zm1,5a4,4,0,0,1,4,4,1,1,0,0,0,2,0,6.006,6.006,0,0,0-6-6,1,1,0,0,0,0,2Zm9.093,10.739a3.1,3.1,0,0,1,0,4.378l-.91,1.049c-8.19,7.841-28.12-12.084-20.4-20.3l1.15-1A3.081,3.081,0,0,1,7.26.906c.031.031,1.884,2.438,1.884,2.438a3.1,3.1,0,0,1-.007,4.282L7.979,9.082a12.781,12.781,0,0,0,6.931,6.945l1.465-1.165a3.1,3.1,0,0,1,4.281-.006S23.062,16.708,23.093,16.739Zm-1.376,1.454s-2.393-1.841-2.424-1.872a1.1,1.1,0,0,0-1.549,0c-.027.028-2.044,1.635-2.044,1.635a1,1,0,0,1-.979.152A15.009,15.009,0,0,1,5.9,9.3a1,1,0,0,1,.145-1S7.652,6.282,7.679,6.256a1.1,1.1,0,0,0,0-1.549c-.031-.03-1.872-2.425-1.872-2.425a1.1,1.1,0,0,0-1.51.039l-1.15,1C-2.495,10.105,14.776,26.418,20.721,20.8l.911-1.05A1.121,1.121,0,0,0,21.717,18.193Z" />
+                        </svg>
+                        <p>+90 539 403 67 53</p>
+                    </a>
+                    <a href="https://wa.me/+905394036753" class="contact" target="_blank" rel="noopener noreferrer"
+                        onclick="trackButtonClick('Contacts', 'Whatsapp Clicked')">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-arrow" viewBox="0 0 24 24">
+                            <path
+                                d="M19,13.5v5c0,3.033-2.467,5.5-5.5,5.5H5.5c-3.033,0-5.5-2.467-5.5-5.5V10.5c0-3.033,2.467-5.5,5.5-5.5h5c.829,0,1.5,.671,1.5,1.5s-.671,1.5-1.5,1.5H5.5c-1.378,0-2.5,1.122-2.5,2.5v8c0,1.378,1.122,2.5,2.5,2.5H13.5c1.378,0,2.5-1.122,2.5-2.5v-5c0-.829,.671-1.5,1.5-1.5s1.5,.671,1.5,1.5ZM20.5,0h-5c-.829,0-1.5,.671-1.5,1.5s.671,1.5,1.5,1.5h3.379L8.439,13.439c-.586,.585-.586,1.536,0,2.121,.293,.293,.677,.439,1.061,.439s.768-.146,1.061-.439L21,5.121v3.379c0,.829,.671,1.5,1.5,1.5s1.5-.671,1.5-1.5V3.5c0-1.93-1.57-3.5-3.5-3.5Z" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M20.463,3.488C18.217,1.24,15.231,0.001,12.05,0    C5.495,0,0.16,5.334,0.157,11.892c-0.001,2.096,0.547,4.142,1.588,5.946L0.057,24l6.304-1.654    c1.737,0.948,3.693,1.447,5.683,1.448h0.005c6.554,0,11.89-5.335,11.893-11.893C23.944,8.724,22.708,5.735,20.463,3.488z     M12.05,21.785h-0.004c-1.774,0-3.513-0.477-5.031-1.378l-0.361-0.214l-3.741,0.981l0.999-3.648l-0.235-0.374    c-0.99-1.574-1.512-3.393-1.511-5.26c0.002-5.45,4.437-9.884,9.889-9.884c2.64,0,5.122,1.03,6.988,2.898    c1.866,1.869,2.893,4.352,2.892,6.993C21.932,17.351,17.498,21.785,12.05,21.785z M17.472,14.382    c-0.297-0.149-1.758-0.868-2.031-0.967c-0.272-0.099-0.47-0.149-0.669,0.148s-0.767,0.967-0.941,1.166    c-0.173,0.198-0.347,0.223-0.644,0.074c-0.297-0.149-1.255-0.462-2.39-1.475c-0.883-0.788-1.48-1.761-1.653-2.059    s-0.018-0.458,0.13-0.606c0.134-0.133,0.297-0.347,0.446-0.521C9.87,9.97,9.919,9.846,10.019,9.647    c0.099-0.198,0.05-0.372-0.025-0.521C9.919,8.978,9.325,7.515,9.078,6.92c-0.241-0.58-0.486-0.501-0.669-0.51    C8.236,6.401,8.038,6.4,7.839,6.4c-0.198,0-0.52,0.074-0.792,0.372c-0.272,0.298-1.04,1.017-1.04,2.479    c0,1.463,1.065,2.876,1.213,3.074c0.148,0.198,2.095,3.2,5.076,4.487c0.709,0.306,1.263,0.489,1.694,0.626    c0.712,0.226,1.36,0.194,1.872,0.118c0.571-0.085,1.758-0.719,2.006-1.413c0.248-0.694,0.248-1.29,0.173-1.413    C17.967,14.605,17.769,14.531,17.472,14.382z" />
+                        </svg>
+                        <p>+90 539 403 67 53</p>
+                    </a>
+                    <a href="mailto:destek@lodoshijyen.com" class="contact" target="_blank" rel="noopener noreferrer"
+                        onclick="trackButtonClick('Contacts', 'Mail Clicked')">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-arrow" viewBox="0 0 24 24">
+                            <path
+                                d="M19,13.5v5c0,3.033-2.467,5.5-5.5,5.5H5.5c-3.033,0-5.5-2.467-5.5-5.5V10.5c0-3.033,2.467-5.5,5.5-5.5h5c.829,0,1.5,.671,1.5,1.5s-.671,1.5-1.5,1.5H5.5c-1.378,0-2.5,1.122-2.5,2.5v8c0,1.378,1.122,2.5,2.5,2.5H13.5c1.378,0,2.5-1.122,2.5-2.5v-5c0-.829,.671-1.5,1.5-1.5s1.5,.671,1.5,1.5ZM20.5,0h-5c-.829,0-1.5,.671-1.5,1.5s.671,1.5,1.5,1.5h3.379L8.439,13.439c-.586,.585-.586,1.536,0,2.121,.293,.293,.677,.439,1.061,.439s.768-.146,1.061-.439L21,5.121v3.379c0,.829,.671,1.5,1.5,1.5s1.5-.671,1.5-1.5V3.5c0-1.93-1.57-3.5-3.5-3.5Z" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M19,1H5A5.006,5.006,0,0,0,0,6V18a5.006,5.006,0,0,0,5,5H19a5.006,5.006,0,0,0,5-5V6A5.006,5.006,0,0,0,19,1ZM5,3H19a3,3,0,0,1,2.78,1.887l-7.658,7.659a3.007,3.007,0,0,1-4.244,0L2.22,4.887A3,3,0,0,1,5,3ZM19,21H5a3,3,0,0,1-3-3V7.5L8.464,13.96a5.007,5.007,0,0,0,7.072,0L22,7.5V18A3,3,0,0,1,19,21Z" />
+                        </svg>
+                        <p>destek@lodoshijyen.com</p>
+                    </a>
+                </div>
+                <div id="bottom-contacts">
+                    <a href="/dijital-katalog" class="contact"
+                        onclick="trackButtonClick('Contacts', 'Digital-Catalog Clicked')">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-arrow" viewBox="0 0 24 24">
+                            <path
+                                d="M19,13.5v5c0,3.033-2.467,5.5-5.5,5.5H5.5c-3.033,0-5.5-2.467-5.5-5.5V10.5c0-3.033,2.467-5.5,5.5-5.5h5c.829,0,1.5,.671,1.5,1.5s-.671,1.5-1.5,1.5H5.5c-1.378,0-2.5,1.122-2.5,2.5v8c0,1.378,1.122,2.5,2.5,2.5H13.5c1.378,0,2.5-1.122,2.5-2.5v-5c0-.829,.671-1.5,1.5-1.5s1.5,.671,1.5,1.5ZM20.5,0h-5c-.829,0-1.5,.671-1.5,1.5s.671,1.5,1.5,1.5h3.379L8.439,13.439c-.586,.585-.586,1.536,0,2.121,.293,.293,.677,.439,1.061,.439s.768-.146,1.061-.439L21,5.121v3.379c0,.829,.671,1.5,1.5,1.5s1.5-.671,1.5-1.5V3.5c0-1.93-1.57-3.5-3.5-3.5Z" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M20,17.754V3.001c0-.95-.435-1.823-1.194-2.395-.758-.572-1.715-.752-2.63-.489l-3,.857c-.446,.127-.845,.354-1.176,.651-.331-.297-.73-.524-1.176-.651L7.824,.117c-.916-.263-1.873-.083-2.63,.489-.759,.572-1.194,1.445-1.194,2.395v14.753l8,2.286,8-2.286ZM13,3.858c0-.444,.298-.839,.726-.961l3-.857c.092-.026,.185-.039,.277-.039,.214,0,.423,.069,.599,.202,.253,.191,.398,.482,.398,.798v13.245l-5,1.429V3.858Zm-2,13.816l-5-1.429V3.001c0-.316,.145-.607,.398-.798,.252-.19,.572-.25,.876-.163l3,.857c.427,.122,.725,.517,.725,.961v13.816ZM24,3V20.611l-12,3.429L0,20.611V4c0-.95,.435-1.823,1.194-2.395,.249-.188,.523-.316,.806-.418V19.103l10,2.857,10-2.857V.187c.283,.102,.558,.23,.806,.418,.759,.572,1.194,1.445,1.194,2.395Z" />
+                        </svg>
+                        <p>Dijital Katalog</p>
+                    </a>
+                    <a href="https://www.instagram.com/lodoshijyenofficial" class="contact" target="_blank"
+                        rel="noopener noreferrer" onclick="trackButtonClick('Contacts', 'Instagram Clicked')">
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-arrow" viewBox="0 0 24 24">
+                            <path
+                                d="M19,13.5v5c0,3.033-2.467,5.5-5.5,5.5H5.5c-3.033,0-5.5-2.467-5.5-5.5V10.5c0-3.033,2.467-5.5,5.5-5.5h5c.829,0,1.5,.671,1.5,1.5s-.671,1.5-1.5,1.5H5.5c-1.378,0-2.5,1.122-2.5,2.5v8c0,1.378,1.122,2.5,2.5,2.5H13.5c1.378,0,2.5-1.122,2.5-2.5v-5c0-.829,.671-1.5,1.5-1.5s1.5,.671,1.5,1.5ZM20.5,0h-5c-.829,0-1.5,.671-1.5,1.5s.671,1.5,1.5,1.5h3.379L8.439,13.439c-.586,.585-.586,1.536,0,2.121,.293,.293,.677,.439,1.061,.439s.768-.146,1.061-.439L21,5.121v3.379c0,.829,.671,1.5,1.5,1.5s1.5-.671,1.5-1.5V3.5c0-1.93-1.57-3.5-3.5-3.5Z" />
+                        </svg>
+                        <svg xmlns="http://www.w3.org/2000/svg" class="contact-icon" viewBox="0 0 24 24">
+                            <path
+                                d="M12,2.162c3.204,0,3.584,0.012,4.849,0.07c1.308,0.06,2.655,0.358,3.608,1.311c0.962,0.962,1.251,2.296,1.311,3.608   c0.058,1.265,0.07,1.645,0.07,4.849c0,3.204-0.012,3.584-0.07,4.849c-0.059,1.301-0.364,2.661-1.311,3.608   c-0.962,0.962-2.295,1.251-3.608,1.311c-1.265,0.058-1.645,0.07-4.849,0.07s-3.584-0.012-4.849-0.07   c-1.291-0.059-2.669-0.371-3.608-1.311c-0.957-0.957-1.251-2.304-1.311-3.608c-0.058-1.265-0.07-1.645-0.07-4.849   c0-3.204,0.012-3.584,0.07-4.849c0.059-1.296,0.367-2.664,1.311-3.608c0.96-0.96,2.299-1.251,3.608-1.311   C8.416,2.174,8.796,2.162,12,2.162 M12,0C8.741,0,8.332,0.014,7.052,0.072C5.197,0.157,3.355,0.673,2.014,2.014   C0.668,3.36,0.157,5.198,0.072,7.052C0.014,8.332,0,8.741,0,12c0,3.259,0.014,3.668,0.072,4.948c0.085,1.853,0.603,3.7,1.942,5.038   c1.345,1.345,3.186,1.857,5.038,1.942C8.332,23.986,8.741,24,12,24c3.259,0,3.668-0.014,4.948-0.072   c1.854-0.085,3.698-0.602,5.038-1.942c1.347-1.347,1.857-3.184,1.942-5.038C23.986,15.668,24,15.259,24,12   c0-3.259-0.014-3.668-0.072-4.948c-0.085-1.855-0.602-3.698-1.942-5.038c-1.343-1.343-3.189-1.858-5.038-1.942   C15.668,0.014,15.259,0,12,0z" />
+                            <path
+                                d="M12,5.838c-3.403,0-6.162,2.759-6.162,6.162c0,3.403,2.759,6.162,6.162,6.162s6.162-2.759,6.162-6.162   C18.162,8.597,15.403,5.838,12,5.838z M12,16c-2.209,0-4-1.791-4-4s1.791-4,4-4s4,1.791,4,4S14.209,16,12,16z" />
+                            <circle cx="18.406" cy="5.594" r="1.44" />
+                        </svg>
+                        <p>@lodoshijyenofficial</p>
+                    </a>
+                </div>
+            </div>
+            <div id="map">
+                <h3 id="contact-location-details" data-aos="fade-down">
+                    Kocasinan Merkez Mahallesi, <br class="small-br">Bayraklı Sokak No:12/C<br>Bahçelievler İSTANBUL
+                </h3>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!4v1732127540481!6m8!1m7!1sbMIiTt-sJAOc0E6ilAgCwQ!2m2!1d41.01417557356777!2d28.84702068721752!3f185.26315420915492!4f2.00865330424638!5f0.7820865974627469"
+                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3010.4670690133535!2d28.846926659881092!3d41.01503638763902!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14caa5105f60459f%3A0x929371659dc04845!2zTE9ET1MgSMSwSllFTiBFTkTDnFNUUsSwWUVMIFRFTcSwWkzEsEsgVkUgU0FSRiBNQUxaRU1FTEVSxLA!5e0!3m2!1str!2str!4v1732284760924!5m2!1str!2str"
+                    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            </div>
+        </div>
     </main>
+    <footer>
+        <div id="footer-container">
+            <div id="footer-top-container" data-aos="fade-down" data-aos-delay="0">
+                <h3>İşletmenin İhtiyacı Olan Tüm<br class="large-br"> Hijyen Ürünleri Şimdi Kapında!</h3>
+                <a href="/" class="link">
+                    <p id="ft-button" class="button">Ana Sayfa</p>
+                </a>
+                <div id="footer-info">
+                    <a href="/cerez-aydinlatma-metni">Çerez Aydınlatma
+                        Metni</a>
+                </div>
+                <p id="copyright"><span id="current-year"></span> - Lodos Hijyen &copy; | Tüm Hakları Saklıdır</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Whatsapp Icon -->
+    <a href="https://wa.me/+905394036753" target="_blank" rel="noopener noreferrer"
+        onclick="trackButtonClick('Contacts', 'Whatsapp Clicked')">
+        <div data-aos="fade-up" data-aos-delay="100" data-aos-offset="0" id="whatsapp-icon">
+            <img src="/images/whatsapp.png" class="button" alt="Whatsapp Icon">
+        </div>
+    </a>
+
+    <!-- Digital Catalog Drop Box -->
+    <div id="digital-catalog-dropbox-container" data-aos="fade-left" data-aos-delay="100" data-aos-offset="0">
+        <div id="digital-catalog-close-button">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+                <path
+                    d="M7,24a1,1,0,0,1-.71-.29,1,1,0,0,1,0-1.42l8.17-8.17a3,3,0,0,0,0-4.24L6.29,1.71A1,1,0,0,1,7.71.29l8.17,8.17a5,5,0,0,1,0,7.08L7.71,23.71A1,1,0,0,1,7,24Z" />
+            </svg>
+        </div>
+        <a href="/dijital-katalog" onclick="trackButtonClick('Contacts', 'Digital-Catalog Clicked')">
+            <div id="digital-catalog-dropbox">
+                İşletmenize özel yüzlerce çeşit ürünlerimizle Dijital Kataloğumuzu ziyaret edebilirsiniz.
+            </div>
+        </a>
+    </div>
+
+    <!-- Cookie Bar -->
+    <div id="cookie-container">
+        <p>İnternet sitemizden en verimli şekilde faydalanabilmeniz ve kullanıcı deneyimini geliştirebilmek için
+            internet sitemizde yasal düzenlemelere uygun çerezler kullanılmaktadır. Çerez kullanımını kabul edebilir,
+            ayarlarınızdan çerezleri silebilir veya engelleyebilirsiniz. Kullanılan çerezlerle ilgili detaylı bilgi
+            almak için <a href="/cerez-aydinlatma-metni">Çerez Aydınlatma
+                Metni</a>'ni inceleyebilirsiniz.</p>
+        <div id="cookie-confirm-button-container">
+            <div id="cookie-confirm-button" class="button">Kabul Et</div>
+        </div>
+    </div>
     <script>
-        document.addEventListener('DOMContentLoaded', function () {
-            let loadingScreen = document.getElementById("loading-screen");
-            let percentageElement = document.getElementById("percentage");
+        function trackButtonClick(group, buttonName) {
+            gtag('event', 'click', {
+                'event_category': group,
+                'event_label': buttonName,
+                'value': 1
+            });
+        }
+    </script>
 
-            let percentage = 0;
+    <script>
+        const handleButtonState = (event, className) => {
+            const target = event.target.closest('.button');
+            if (target) target.classList[event.type === 'mousedown' || event.type === 'touchstart' ? 'add' : 'remove'](className);
+        };
 
-            let interval = setInterval(function () {
-                percentage += 1;
-                percentageElement.textContent = "% " + percentage;
+        document.querySelectorAll('.button').forEach(button => {
+            ['mousedown', 'touchstart', 'mouseup', 'mouseleave', 'touchend'].forEach(eventType => {
+                button.addEventListener(eventType, event => handleButtonState(event, 'clicked'));
+            });
+        });
 
-                if (percentage >= 100) {
-                    clearInterval(interval);
-                    loadingScreen.style.opacity = "0";
+        function checkScroll() {
+            const navContainer = document.querySelector('#products-nav-container');
+            navContainer.classList.toggle('scrolled', window.scrollY > 105);
+            const productsContainer = document.getElementById('products-container');
 
-                    setTimeout(function () {
-                        loadingScreen.style.display = "none";
-                    }, 300);
+            const containerHeight = productsContainer.offsetHeight;
+            const containerTop = productsContainer.getBoundingClientRect().top;
+            const viewportHeight = window.innerHeight;
+            if (containerTop + containerHeight < 80) {
+                navContainer.classList.toggle('scrolled');
+            }
+        };
+
+        document.addEventListener('DOMContentLoaded', () => {
+            const yearElement = document.querySelector('#current-year');
+            if (yearElement) yearElement.textContent = new Date().getFullYear();
+
+            checkScroll();
+        });
+
+        window.addEventListener('load', () => {
+            const swiperContainer = document.querySelector('.swiper-wrapper');
+            const productsContainer = document.getElementById('products-container');
+
+            const swiper = new Swiper('#products-nav-container', {
+                direction: 'horizontal',
+                loop: false,
+                slidesPerView: 'auto',
+                spaceBetween: 10,
+                scrollbar: { el: '.swiper-scrollbar', draggable: true, hide: false },
+                mousewheel: true,
+                keyboard: { enabled: true }
+            });
+            const swiperScrollbar = document.querySelector('.swiper-scrollbar');
+            if (swiperScrollbar) {
+                swiperScrollbar.style.setProperty('--swiper-scrollbar-sides-offset', '0%');
+            }
+            fetch('/digital-catalog.json')
+                .then(response => response.json())
+                .then(data => {
+                    data.categories.forEach((category, index) => {
+                        const slide = document.createElement('div');
+                        slide.classList.add('swiper-slide');
+                        slide.textContent = category.title;
+                        slide.dataset.index = index;
+                        swiperContainer.appendChild(slide);
+                        if (index === 0) slide.classList.add('the-active');
+                    });
+
+                    populateProducts(data.categories[0].products, true);
+
+                    document.querySelectorAll('.swiper-slide').forEach(slide => {
+                        slide.addEventListener('click', () => {
+                            document.querySelectorAll('.swiper-slide').forEach(s => s.classList.remove('the-active'));
+                            slide.classList.add('the-active');
+                            populateProducts(data.categories[slide.dataset.index].products);
+                        });
+                    });
+
+                    swiper.update();
+
+                })
+                .catch(error => console.error('Error fetching JSON data:', error));
+
+            const populateProducts = (products, initialLoad = false) => {
+                if (!initialLoad) {
+                    gsap.timeline({
+                        onComplete: () => {
+                            productsContainer.innerHTML = '';
+                            addProducts(products, false);
+                        }
+                    }).to('.box', { opacity: 0, y: -50, duration: 0.5, ease: 'power2.out' });
+                } else {
+                    showLoader(() => addProducts(products, true)); 
                 }
-            }, 10);
+            };
+
+            const addProducts = (products, firstLoad = false) => {
+                products.forEach(product => {
+                    const box = document.createElement('div');
+                    box.classList.add('box');
+                    box.innerHTML = `
+                    <div class="title-container">
+                        <h4 class="title">${product.title}</h4>
+                    </div>
+                    <div class="image-container">
+                        <img loading="lazy" src="${product.image}" alt="${product.title}" />
+                    </div>
+                    <div class="details-container">
+                        <h4 class="details-features">Özellikler</h4>
+                        <div class="details">${Object.entries(product.details).map(([key, value]) => `
+                            <p class="item">
+                                <span>${key}: </span>
+                            ${value}</p>`).join('')}
+                        </div>
+                    </div>
+                `;
+                    productsContainer.appendChild(box);
+                });
+
+                gsap.fromTo('.box',
+                    { opacity: 0, y: firstLoad ? 100 : 50 },
+                    { opacity: 1, y: 0, duration: 0.8, ease: 'power2.out', stagger: 0.1 }
+                );
+            };
+
+            const showLoader = (callback) => {
+                const loadingScreen = document.getElementById('loading-screen');
+                const percentageElement = document.getElementById('percentage');
+                let percentage = 0;
+
+                const interval = setInterval(() => {
+                    percentageElement.textContent = `% ${++percentage}`;
+                    if (percentage >= 100) {
+                        clearInterval(interval);
+                        loadingScreen.style.opacity = '0';
+                        setTimeout(() => {
+                            loadingScreen.style.display = 'none';
+                            callback();
+                        }, 500);
+                        AOS.init({ duration: 800 });
+                    }
+                }, 10);
+            };
+
+            document.querySelectorAll('img, a').forEach(el => {
+                el.addEventListener('dragstart', e => e.preventDefault());
+            });
+
+        });
+
+        window.addEventListener('scroll', checkScroll);
+
+        const closeCatalogButton = document.querySelector('#digital-catalog-close-button');
+        const digitalCatalog = document.querySelector('#digital-catalog-dropbox-container');
+
+        closeCatalogButton.addEventListener('click', () => {
+            digitalCatalog.classList.toggle('closed');
+        });
+
+        document.querySelector('#hamburger').addEventListener('click', () => {
+            const elements = ['#hamburger', '#nav-container', 'header', 'body'];
+            elements.forEach(selector => document.querySelector(selector).classList.toggle(selector === 'body' ? 'no-scroll' : 'active'));
+        });
+
+        SmoothScroll({
+            animationTime: 1000,
+            stepSize: 75,
+            accelerationDelta: 90,
+            accelerationMax: 2,
+            keyboardSupport: true,
+            arrowScroll: 70,
+            pulseAlgorithm: true,
+            pulseScale: 5,
+            pulseNormalize: 1,
+            touchpadSupport: true
         });
     </script>
+
 </body>
 
 </html>
