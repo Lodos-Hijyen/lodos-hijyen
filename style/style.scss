@@ -257,16 +257,17 @@ header {
         padding: 10px;
         overflow: hidden;
         padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
 
         .slider-container{
             position: relative;
-            
             width: 100%;
-            height: 100%;
         }
         .progress-bar {
             position: absolute;
-            top: 0;
+            top: 0px;
             left: 0;
             height: 5px;
             background-color: var(--colourful);
@@ -276,7 +277,6 @@ header {
 
         /* Swiper */
         .swiper {
-            width: 100%;
             height: 100%;
             border-radius: 0 0 15px 15px;
         }
@@ -297,7 +297,6 @@ header {
             width: 100%;
             display: block;
             z-index: 1;
-            height: 100%;
             object-fit: cover;
         }
 
@@ -316,14 +315,6 @@ header {
         .swiper-pagination-bullet-active {
             background: var(--colourful);
         }
-
-
-        /* 
-        img {
-            height: 100%;
-            width: 100%;
-            object-fit: cover;
-        } */
 
     }
 }
@@ -1168,6 +1159,11 @@ footer {
     src: url("/fonts/Lustira.ttf");
 }
 
+@media screen and (min-width: 1550px){
+    .slider-container{
+        height: 100% !important;
+    }
+ }
 
 @media screen and (max-width: 1280px) {
     :root {
